@@ -1,0 +1,8 @@
+
+for pyenv fix
+
+sudo apt-get install lzma
+sudo apt-get install liblzma-dev
+sudo apt-get install libbz2-dev
+
+sudo apt-get install python3-tk
